@@ -8,4 +8,7 @@ A 2048 knockoff, but easier.
 
 ## Potential Improvements
 1. The animations are not _always_ working; further investigation needed.
+   * Missing animations:
+      * New boxes animate from the center of the cell --> out
+      * Combination boxes scale larger --> identity
 1. Additional modes/targets, board shapes, etc.
